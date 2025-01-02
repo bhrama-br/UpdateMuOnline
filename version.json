@@ -1,11 +1,6 @@
 {
   "files": [
     {
-      "name": "Data/World1/xxx",
-      "checksum": "5abbe2d8f589908656e65e4de9809c5211b6d87ea3696b152debfc55c819a738",
-      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuOnline/main/Data/World1/xxx"
-    },
-    {
       "name": "main.dll",
       "checksum": "695db4c4c6f3c9dd9829961e2de010cf79e154377a73ce23fb75a76e7a6d1ed6",
       "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuOnline/main/main.dll"
